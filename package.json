@@ -1,6 +1,6 @@
 {
     "name": "daemonize",
-    "version": "0.3.1",
+    "version": "0.3.2",
     "description": "Module for easy creation of daemons for Node 0.6.x",
     "author": "Kuba Niegowski",
     "contributors": [],

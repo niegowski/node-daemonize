@@ -3,6 +3,8 @@ About
 
 Node module for easy creation of daemons for Node 0.6.x
 
+For Node 0.8.x compatibility see daemonize2 https://github.com/niegowski/node-daemonize2
+
 Just write your daemon as plain node.js application 
 (like `/examples/simple/app.js`) and a simple controller with Daemonize 
 (like `/examples/simple/ctrl.js`). 
@@ -149,6 +151,11 @@ Changelog
 Daemonize is maintained under the [Semantic Versioning]
 (https://github.com/niegowski/semver/blob/master/semver.md) 
 guidelines.
+
+### 0.3.2 - Jul 29 2012
+  - Daemonize is compatible only with Node 0.6.x
+
+### 0.3.1 - Apr 2 2012
 
 ### 0.3.0 - Jan 29 2012
   - Daemon emits Events instead of console.log()
