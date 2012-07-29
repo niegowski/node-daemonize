@@ -1,7 +1,7 @@
 About
 =======
 
-Node module for easy creation of daemons.
+Node module for easy creation of daemons for Node 0.6.x
 
 Just write your daemon as plain node.js application 
 (like `/examples/simple/app.js`) and a simple controller with Daemonize 

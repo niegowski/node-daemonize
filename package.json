@@ -1,7 +1,7 @@
 {
     "name": "daemonize",
     "version": "0.3.1",
-    "description": "Module for easy creation of daemons",
+    "description": "Module for easy creation of daemons for Node 0.6.x",
     "author": "Kuba Niegowski",
     "contributors": [],
     "homepage": "https://github.com/niegowski/node-daemonize/",
@@ -9,7 +9,7 @@
         "daemon"
     ],
     "engines": {
-        "node": ">= 0.6.0"
+        "node": "0.6.x"
     },
     "main": "./lib/daemonize.js",
     "scripts": {
